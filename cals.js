@@ -20,7 +20,7 @@ let b = 1
   }
 return b;
 }
-console.log(power(5, 3));
+console.log(power(8, 3));
 
 
 const root = (a, pow) => {
